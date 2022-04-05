@@ -8,3 +8,6 @@
 
 
 ## 05-04-2022
+
+1. https://faun.pub/lets-do-devops-terraform-s3-policies-construction-with-home-folders-5e5799bf0fa2
+   * https://github.com/KyMidd/CloudSecNext2022-TfIamConstruction
