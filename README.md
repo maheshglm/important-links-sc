@@ -11,3 +11,7 @@
 
 1. https://faun.pub/lets-do-devops-terraform-s3-policies-construction-with-home-folders-5e5799bf0fa2
    * https://github.com/KyMidd/CloudSecNext2022-TfIamConstruction
+
+## 11-04-2022
+
+1. https://www.oreilly.com/library/view/terraform-up-and/9781491977071/ch04.html
