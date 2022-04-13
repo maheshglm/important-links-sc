@@ -15,3 +15,4 @@
 ## 11-04-2022
 
 1. https://www.oreilly.com/library/view/terraform-up-and/9781491977071/ch04.html
+2. https://clarusway.com/creating-adding-authorizing-users-and-groups-with-ansible/
