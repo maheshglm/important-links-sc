@@ -20,4 +20,4 @@
 
 ## 13-04-2022
 
-1. (AWS DEVOPS Checklist)[https://gruntwork.io/devops-checklist/]
+1. [AWS DEVOPS Checklist](https://gruntwork.io/devops-checklist/)
