@@ -16,3 +16,4 @@
 
 1. https://www.oreilly.com/library/view/terraform-up-and/9781491977071/ch04.html
 2. https://clarusway.com/creating-adding-authorizing-users-and-groups-with-ansible/
+3. https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
