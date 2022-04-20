@@ -21,3 +21,7 @@
 ## 13-04-2022
 
 1. [AWS DEVOPS Checklist](https://gruntwork.io/devops-checklist/)
+
+## 20-04-2022
+
+1. [ECR Cross Account Access](https://programmaticponderings.com/2019/10/28/amazon-ecr-cross-account-access-for-containerized-applications-on-ecs/)
