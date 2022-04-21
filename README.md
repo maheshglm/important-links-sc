@@ -29,5 +29,6 @@
 ## 21-04-2022
 
 1. [AWS EKS WORKSHOP****](https://www.eksworkshop.com/010_introduction/)
+2. [Kafka K8 at WISE****](https://www.wise.jobs/2021/09/23/running-kafka-in-kubernetes-part-1-why-we-migrated-our-kafka-clusters-to-kubernetes/)
 
 
