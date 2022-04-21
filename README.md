@@ -25,3 +25,9 @@
 ## 20-04-2022
 
 1. [ECR Cross Account Access](https://programmaticponderings.com/2019/10/28/amazon-ecr-cross-account-access-for-containerized-applications-on-ecs/)
+
+## 21-04-2022
+
+1. [AWS EKS WORKSHOP****](https://www.eksworkshop.com/010_introduction/)
+
+
