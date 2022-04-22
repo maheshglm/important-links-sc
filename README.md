@@ -39,7 +39,9 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 ## KeyClock
 
-[Keyclock Docker](https://quicknotepadtutorial.blogspot.com/2022/02/deploy-run-keycloak-server-in-docker.html)
+[Keyclock Docker1](https://quicknotepadtutorial.blogspot.com/2022/02/deploy-run-keycloak-server-in-docker.html)
+
+[Keyclock Docker2](https://swjm.blog/deploying-keycloak-with-ssl-in-just-10-minutes-46073e5cf699)
 
 
 ## Kafka
