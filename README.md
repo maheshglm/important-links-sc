@@ -1,34 +1,49 @@
 # important-links-sc
 
-## 04-04-2022
 
-1. https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
-2. https://blog.devgenius.io/an-introduction-to-terragrunt-dfe9921f5e48
-    * https://github.com/marwai/medium-terragrunt
+## Terraform & Terragrunt
+
+https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
+
+https://blog.devgenius.io/an-introduction-to-terragrunt-dfe9921f5e48
+
+https://github.com/marwai/medium-terragrunt
+
+https://faun.pub/lets-do-devops-terraform-s3-policies-construction-with-home-folders-5e5799bf0fa2
+
+https://github.com/KyMidd/CloudSecNext2022-TfIamConstruction
+
+https://www.oreilly.com/library/view/terraform-up-and/9781491977071/ch04.html
+
+## Ansible
+
+https://clarusway.com/creating-adding-authorizing-users-and-groups-with-ansible/
+
+https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 
-## 05-04-2022
+## AWS
 
-1. https://faun.pub/lets-do-devops-terraform-s3-policies-construction-with-home-folders-5e5799bf0fa2
-   * https://github.com/KyMidd/CloudSecNext2022-TfIamConstruction
+[AWS DEVOPS Checklist](https://gruntwork.io/devops-checklist/)
 
-## 11-04-2022
+[ECR Cross Account Access](https://programmaticponderings.com/2019/10/28/amazon-ecr-cross-account-access-for-containerized-applications-on-ecs/)
 
-1. https://www.oreilly.com/library/view/terraform-up-and/9781491977071/ch04.html
-2. https://clarusway.com/creating-adding-authorizing-users-and-groups-with-ansible/
-3. https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
+[AWS EKS WORKSHOP****](https://www.eksworkshop.com/010_introduction/)
 
-## 13-04-2022
+## DevOps
 
-1. [AWS DEVOPS Checklist](https://gruntwork.io/devops-checklist/)
 
-## 20-04-2022
+## Docker
 
-1. [ECR Cross Account Access](https://programmaticponderings.com/2019/10/28/amazon-ecr-cross-account-access-for-containerized-applications-on-ecs/)
 
-## 21-04-2022
 
-1. [AWS EKS WORKSHOP****](https://www.eksworkshop.com/010_introduction/)
-2. [Kafka K8 at WISE****](https://www.wise.jobs/2021/09/23/running-kafka-in-kubernetes-part-1-why-we-migrated-our-kafka-clusters-to-kubernetes/)
+## KeyClock
+
+[Keyclock Docker](https://quicknotepadtutorial.blogspot.com/2022/02/deploy-run-keycloak-server-in-docker.html)
+
+
+## Kafka
+
+[Kafka K8 at WISE****](https://www.wise.jobs/2021/09/23/running-kafka-in-kubernetes-part-1-why-we-migrated-our-kafka-clusters-to-kubernetes/)
 
 
