@@ -1,5 +1,9 @@
 # important-links-sc
 
+## Kubernetes
+
+[k8s Blogs Blue Metador](https://www.bluematador.com/blog/tag/kubernetes)
+
 
 ## Terraform & Terragrunt
 
