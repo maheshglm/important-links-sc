@@ -34,6 +34,8 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 [AWS EKS WORKSHOP****](https://www.eksworkshop.com/010_introduction/)
 
+[AWS IAM Terminology](https://mhausenblas.info/rbIAM/terminology/)
+
 ## DevOps
 
 
