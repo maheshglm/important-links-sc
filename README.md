@@ -4,6 +4,8 @@
 
 [k8s Blogs Blue Metador](https://www.bluematador.com/blog/tag/kubernetes)
 
+[K8 Autoscalar IRSA](https://dev.to/awscommunity-asean/kubernetes-cluster-autoscaler-with-irsa-3bg5)
+
 
 ## Terraform & Terragrunt
 
