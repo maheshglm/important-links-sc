@@ -36,6 +36,8 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 [AWS IAM Terminology](https://mhausenblas.info/rbIAM/terminology/)
 
+[AWS Hardway](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)
+
 ## DevOps
 
 
