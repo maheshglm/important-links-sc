@@ -6,6 +6,8 @@
 
 [K8 Autoscalar IRSA](https://dev.to/awscommunity-asean/kubernetes-cluster-autoscaler-with-irsa-3bg5)
 
+[K8 Onprem Why and How](https://dzone.com/articles/kubernetes-on-premises-why-and-how)
+
 
 ## Terraform & Terragrunt
 
