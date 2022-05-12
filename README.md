@@ -8,6 +8,8 @@
 
 [K8 Onprem Why and How](https://dzone.com/articles/kubernetes-on-premises-why-and-how)
 
+[K8 Onprem Why and How](https://platform9.com/blog/kubernetes-on-premises-why-and-how/)
+
 
 ## Terraform & Terragrunt
 
