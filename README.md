@@ -4,11 +4,13 @@
 
 [k8s Blogs Blue Metador](https://www.bluematador.com/blog/tag/kubernetes)
 
-[K8 Autoscalar IRSA](https://dev.to/awscommunity-asean/kubernetes-cluster-autoscaler-with-irsa-3bg5)
+[K8s Autoscalar IRSA](https://dev.to/awscommunity-asean/kubernetes-cluster-autoscaler-with-irsa-3bg5)
 
-[K8 Onprem Why and How](https://dzone.com/articles/kubernetes-on-premises-why-and-how)
+[K8s Onprem Why and How](https://dzone.com/articles/kubernetes-on-premises-why-and-how)
 
-[K8 Onprem Why and How](https://platform9.com/blog/kubernetes-on-premises-why-and-how/)
+[K8s Onprem Why and How](https://platform9.com/blog/kubernetes-on-premises-why-and-how/)
+
+[K8s Kubespray](https://www.techbeatly.com/deploying-kubernetes-with-kubespray/)
 
 
 ## Terraform & Terragrunt
