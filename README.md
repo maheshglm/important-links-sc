@@ -12,6 +12,8 @@
 
 [K8s Kubespray](https://www.techbeatly.com/deploying-kubernetes-with-kubespray/)
 
+[School of DevOps K8 Blogs](https://schoolofdevops.github.io/ultimate-kubernetes-bootcamp/cluster_setup_kubespray/)
+
 
 ## Terraform & Terragrunt
 
