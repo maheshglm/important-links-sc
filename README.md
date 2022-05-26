@@ -16,6 +16,11 @@
 
 [Set up K8s Cluster](https://rudimartinsen.com/2020/08/08/setting-up-a-kubernetes-cluster-vms/)
 
+[K8s Hardway***] (https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
+[K8s Cluster setup](https://linuxblog.xyz/posts/kubespray-cilium/)
+
+[K8s Cluster setup](https://rudimartinsen.com/2020/08/08/setting-up-a-kubernetes-cluster-vms/)
 
 ## Terraform & Terragrunt
 
