@@ -22,6 +22,10 @@
 
 [K8s Cluster setup](https://rudimartinsen.com/2020/08/08/setting-up-a-kubernetes-cluster-vms/)
 
+[Handle storage for Bare metal Cluster](https://www.weave.works/blog/kubernetes-faq-configure-storage-for-bare-metal-cluster)
+
+[Traffic route for Bare metal Cluster](https://www.weave.works/blog/kubernetes-faq-how-can-i-route-traffic-for-kubernetes-on-bare-metal)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
