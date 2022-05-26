@@ -14,6 +14,8 @@
 
 [School of DevOps K8 Blogs](https://schoolofdevops.github.io/ultimate-kubernetes-bootcamp/cluster_setup_kubespray/)
 
+[Set up K8s Cluster](https://rudimartinsen.com/2020/08/08/setting-up-a-kubernetes-cluster-vms/)
+
 
 ## Terraform & Terragrunt
 
