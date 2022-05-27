@@ -1,5 +1,9 @@
 # important-links-sc
 
+## Edge
+
+[DevOps Edge Devices - IBM Blog](https://www.ibm.com/cloud/blog/devops-at-the-edge)
+
 ## Kubernetes
 
 [k8s Blogs Blue Metador](https://www.bluematador.com/blog/tag/kubernetes)
