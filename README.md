@@ -30,6 +30,8 @@
 
 [Traffic route for Bare metal Cluster](https://www.weave.works/blog/kubernetes-faq-how-can-i-route-traffic-for-kubernetes-on-bare-metal)
 
+[K8s Cluster Setup Kubespray](https://lapee79.github.io/en/article/setup-production-ready-kubernetes-on-baremetal-with-kubespray/)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
