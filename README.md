@@ -32,6 +32,8 @@
 
 [K8s Cluster Setup Kubespray](https://lapee79.github.io/en/article/setup-production-ready-kubernetes-on-baremetal-with-kubespray/)
 
+[K8s Cluster Setup Kubespray](https://upcloud.com/resources/tutorials/deploy-kubernetes-using-kubespray)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
