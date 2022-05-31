@@ -67,6 +67,8 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 [HA Proxy High Availability](https://www.digitalocean.com/community/tutorials/how-to-set-up-highly-available-haproxy-servers-with-keepalived-and-floating-ips-on-ubuntu-14-04)
 
+[Virtual BOX setup for K8s](https://www.techbeatly.com/build-your-own-multi-node-kubernetes-cluster-with-ubuntu20-on-virtualbox/)
+
 
 ## Docker
 
