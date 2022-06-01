@@ -34,6 +34,8 @@
 
 [K8s Cluster Setup Kubespray](https://upcloud.com/resources/tutorials/deploy-kubernetes-using-kubespray)
 
+[K8s Storage](https://cloudian.com/guides/understanding-kubernetes-multi-tenancy/kubernetes-storage-101-concepts-and-best-practices/)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
