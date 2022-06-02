@@ -4,6 +4,11 @@
 
 [DevOps Edge Devices - IBM Blog](https://www.ibm.com/cloud/blog/devops-at-the-edge)
 
+
+## GitHub
+
+[Selfhosted Runner in Docker](https://testdriven.io/blog/github-actions-docker/)
+
 ## Kubernetes
 
 [k8s Blogs Blue Metador](https://www.bluematador.com/blog/tag/kubernetes)
@@ -20,7 +25,7 @@
 
 [Set up K8s Cluster](https://rudimartinsen.com/2020/08/08/setting-up-a-kubernetes-cluster-vms/)
 
-[K8s Hardway***] (https://github.com/kelseyhightower/kubernetes-the-hard-way)
+[K8s Hardway***](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 [K8s Cluster setup](https://linuxblog.xyz/posts/kubespray-cilium/)
 
