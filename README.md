@@ -41,6 +41,8 @@
 
 [K8s Storage](https://cloudian.com/guides/understanding-kubernetes-multi-tenancy/kubernetes-storage-101-concepts-and-best-practices/)
 
+[K8s Choosing CNI Provider***](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
