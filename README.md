@@ -43,6 +43,8 @@
 
 [K8s Choosing CNI Provider***](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/)
 
+[MetalLB Info](https://www.starkandwayne.com/blog/k8s-and-metallb-a-loadbalancer-for-on-prem-deployments/)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
