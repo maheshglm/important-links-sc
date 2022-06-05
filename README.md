@@ -45,6 +45,8 @@
 
 [MetalLB Info](https://www.starkandwayne.com/blog/k8s-and-metallb-a-loadbalancer-for-on-prem-deployments/)
 
+[K8s Exercise GitOps](https://backwiz.tech/how-to-set-up-a-local-kubernetes-cluster)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
