@@ -49,6 +49,8 @@
 
 [HA Considerations HAPROXY+KEEPALIVED](https://github.com/kubernetes/kubeadm/blob/main/docs/ha-considerations.md#options-for-software-load-balancing)
 
+[HA Architecture Azure](https://docs.microsoft.com/en-us/hybrid/app-solutions/pattern-highly-available-kubernetes)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
