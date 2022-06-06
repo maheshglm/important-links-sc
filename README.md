@@ -51,6 +51,8 @@
 
 [HA Architecture Azure](https://docs.microsoft.com/en-us/hybrid/app-solutions/pattern-highly-available-kubernetes)
 
+[HA Setup K8s](https://kubesphere.io/docs/installing-on-linux/high-availability-configurations/set-up-ha-cluster-using-keepalived-haproxy/)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
