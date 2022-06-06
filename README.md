@@ -47,6 +47,8 @@
 
 [K8s Exercise GitOps](https://backwiz.tech/how-to-set-up-a-local-kubernetes-cluster)
 
+[HA Considerations HAPROXY+KEEPALIVED](https://github.com/kubernetes/kubeadm/blob/main/docs/ha-considerations.md#options-for-software-load-balancing)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
