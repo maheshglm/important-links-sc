@@ -55,6 +55,12 @@
 
 [Ceph + Rook Setup](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ceph-cluster-within-kubernetes-using-rook)
 
+[Ceph + Rook Setup](https://computingforgeeks.com/how-to-deploy-rook-ceph-storage-on-kubernetes-cluster/)
+
+[Ceph + Rook Setup](https://dev.to/itminds/ceph-data-durability-redundancy-and-how-to-use-ceph-2ml0)
+
+[NFS Server on Kubernetes POD](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-volumes-example-nfs-persistent-volume.html)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
@@ -95,6 +101,9 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 [Virtual BOX setup for K8s](https://www.techbeatly.com/build-your-own-multi-node-kubernetes-cluster-with-ubuntu20-on-virtualbox/)
 
 [Open Source Load Balancers](https://www.containiq.com/post/open-source-load-balancers)
+
+[NFS Server Creation & Usage](https://www.tecmint.com/install-nfs-server-on-ubuntu/)
+
 
 ## Docker
 
