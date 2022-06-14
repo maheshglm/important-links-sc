@@ -115,6 +115,8 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 [Keyclock Docker2](https://swjm.blog/deploying-keycloak-with-ssl-in-just-10-minutes-46073e5cf699)
 
+[Keyclock with Harbour](https://blog.lazybit.ch/harbor-keycloak-auth/)
+
 
 ## Kafka
 
