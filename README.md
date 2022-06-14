@@ -61,6 +61,8 @@
 
 [NFS Server on Kubernetes POD](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-volumes-example-nfs-persistent-volume.html)
 
+[Harbor On EKS K8s](https://ruzickap.github.io/k8s-harbor/#objectives)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
