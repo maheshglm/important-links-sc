@@ -119,6 +119,8 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 [Keyclock with Harbour](https://blog.lazybit.ch/harbor-keycloak-auth/)
 
+[Keyclock with Harbour](https://www.talkingquickly.co.uk/harbor-docker-registry-on-kubernetes-authentication-with-keycloak)
+
 
 ## Kafka
 
