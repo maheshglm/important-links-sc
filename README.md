@@ -1,6 +1,7 @@
 # important-links-sc
 
 [HTTPS certificate for localhost domains](https://gist.github.com/cecilemuller/9492b848eb8fe46d462abeb26656c4f8)
+[Enale SSL Nginx](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-load-balancing-with-ssl-termination)
 
 ## Edge
 
