@@ -1,5 +1,7 @@
 # important-links-sc
 
+[HTTPS certificate for localhost domains](https://gist.github.com/cecilemuller/9492b848eb8fe46d462abeb26656c4f8)
+
 ## Edge
 
 [DevOps Edge Devices - IBM Blog](https://www.ibm.com/cloud/blog/devops-at-the-edge)
