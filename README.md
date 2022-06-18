@@ -14,6 +14,8 @@
 
 ## Kubernetes
 
+[Deploy Production Grade Cluster](https://docs.gruntwork.io/guides/build-it-yourself/kubernetes-cluster/)
+
 [EKS Workshop Tutorial](https://www.eksworkshop.com/010_introduction/)
 
 [k8s Blogs Blue Metador](https://www.bluematador.com/blog/tag/kubernetes)
