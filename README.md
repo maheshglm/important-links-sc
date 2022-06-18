@@ -14,6 +14,8 @@
 
 ## Kubernetes
 
+[EKS Workshop Tutorial](https://www.eksworkshop.com/010_introduction/)
+
 [k8s Blogs Blue Metador](https://www.bluematador.com/blog/tag/kubernetes)
 
 [K8s Autoscalar IRSA](https://dev.to/awscommunity-asean/kubernetes-cluster-autoscaler-with-irsa-3bg5)
