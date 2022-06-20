@@ -90,6 +90,8 @@ https://clarusway.com/creating-adding-authorizing-users-and-groups-with-ansible/
 
 https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
+[Build own CA with Ansible](https://gquintana.github.io/2020/11/28/Build-your-own-CA-with-Ansible.html)
+
 
 ## AWS
 
