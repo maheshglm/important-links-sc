@@ -133,4 +133,6 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 [Kafka K8 at WISE****](https://www.wise.jobs/2021/09/23/running-kafka-in-kubernetes-part-1-why-we-migrated-our-kafka-clusters-to-kubernetes/)
 
+[Kafka Security Ansible Blog](https://digitalis.io/blog/kafka/kafka-installation-and-security-with-ansible-topics-sasl-and-acls/)
+
 
