@@ -139,4 +139,6 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 [Kafka Security Ansible Blog](https://digitalis.io/blog/kafka/kafka-installation-and-security-with-ansible-topics-sasl-and-acls/)
 
+[Strimzi Deployment Docs](https://strimzi.io/docs/operators/latest/full/deploying.html#deploy-intro_str)
+
 
