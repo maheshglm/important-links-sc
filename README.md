@@ -70,6 +70,8 @@
 
 [Harbor On EKS K8s](https://ruzickap.github.io/k8s-harbor/#objectives)
 
+[EKS using Terraform](https://antonputra.com/terraform/how-to-create-eks-cluster-using-terraform/)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
