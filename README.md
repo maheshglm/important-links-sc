@@ -72,6 +72,8 @@
 
 [EKS using Terraform](https://antonputra.com/terraform/how-to-create-eks-cluster-using-terraform/)
 
+[Blog - TLS Termination at Ingress](https://aws.amazon.com/blogs/security/tls-enabled-kubernetes-clusters-with-acm-private-ca-and-amazon-eks-2/)
+
 ## Terraform & Terragrunt
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
