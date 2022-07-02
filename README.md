@@ -14,6 +14,8 @@
 
 ## Kubernetes
 
+[External DNS and Terraform](https://tech.polyconseil.fr/external-dns-helm-terraform.html)
+
 [EKS With Terraform](https://pilotcoresystems.com/insights/deploying-kubernetes-via-eks-on-aws/)
 
 [Deploy Production Grade Cluster](https://docs.gruntwork.io/guides/build-it-yourself/kubernetes-cluster/)
