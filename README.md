@@ -14,6 +14,8 @@
 
 ## Kubernetes
 
+[EKS With Terraform](https://pilotcoresystems.com/insights/deploying-kubernetes-via-eks-on-aws/)
+
 [Deploy Production Grade Cluster](https://docs.gruntwork.io/guides/build-it-yourself/kubernetes-cluster/)
 
 [EKS Workshop Tutorial](https://www.eksworkshop.com/010_introduction/)
