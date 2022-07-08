@@ -147,4 +147,4 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 [Strimzi Deployment Docs](https://strimzi.io/docs/operators/latest/full/deploying.html#deploy-intro_str)
 
-
+[Strimzi Docs Authentication](https://strimzi.io/docs/0.12.0/#con-scram-sha-authentication-deployment-configuration-kafka)
