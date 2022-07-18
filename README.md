@@ -105,6 +105,8 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 ## AWS
 
+[DJANGO with ECS and TERRAFORM](https://testdriven.io/blog/deploying-django-to-ecs-with-terraform/)
+
 [AWS DEVOPS Checklist](https://gruntwork.io/devops-checklist/)
 
 [ECR Cross Account Access](https://programmaticponderings.com/2019/10/28/amazon-ecr-cross-account-access-for-containerized-applications-on-ecs/)
