@@ -18,6 +18,8 @@
 
 ## Kubernetes
 
+[Production ready k8s checklist](https://www.weave.works/blog/production-ready-checklist-kubernetes)
+
 [ALB and Nginx Ingress controller](https://www.padok.fr/en/blog/application-load-balancer-aws#nginx-ingress)
 
 [External DNS and Terraform](https://tech.polyconseil.fr/external-dns-helm-terraform.html)
