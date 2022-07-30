@@ -113,6 +113,8 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 ## AWS
 
+[AWS VPC + Subnets + ALB + Autoscaling](https://hands-on.cloud/terraform-recipe-managing-auto-scaling-groups-and-load-balancers/)
+
 [Terraform VPC + Subnets](https://cloudcasts.io/course/terraform/creating-our-vpc-module)
 
 [DJANGO with ECS and TERRAFORM](https://testdriven.io/blog/deploying-django-to-ecs-with-terraform/)
