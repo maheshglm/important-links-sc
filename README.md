@@ -119,6 +119,8 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 ## AWS
 
+[Aws S3 Management Terraform](https://hands-on.cloud/how-to-automate-amazon-s3-management-using-terraform/)
+
 [AWS VPC + Subnets + ALB + Autoscaling](https://hands-on.cloud/terraform-recipe-managing-auto-scaling-groups-and-load-balancers/)
 
 [Terraform VPC + Subnets](https://cloudcasts.io/course/terraform/creating-our-vpc-module)
