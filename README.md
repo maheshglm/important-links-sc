@@ -94,6 +94,8 @@
 
 ## Terraform & Terragrunt
 
+[Terraform Blogs](https://spacelift.io/blog/terraform)
+
 [Terraform Templates](https://spacelift.io/blog/terraform-templates)
 
 https://blog.boltops.com/2020/09/28/terraform-vs-terragrunt-vs-terraspace/
