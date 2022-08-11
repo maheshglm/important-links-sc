@@ -167,6 +167,8 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 ## Kafka
 
+[Kafka + IOT Tech Blogs](https://www.kai-waehner.de/blog/2021/03/15/apache-kafka-mqtt-sparkplug-iot-blog-series-part-1-of-5-overview-comparison/#:~:text=Choose%20MQTT%20for%20messaging%20if,data%20integration%2C%20and%20data%20processing.)
+
 [Kafka K8 at WISE****](https://www.wise.jobs/2021/09/23/running-kafka-in-kubernetes-part-1-why-we-migrated-our-kafka-clusters-to-kubernetes/)
 
 [Kafka Security Ansible Blog](https://digitalis.io/blog/kafka/kafka-installation-and-security-with-ansible-topics-sasl-and-acls/)
