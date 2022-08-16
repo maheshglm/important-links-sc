@@ -19,6 +19,8 @@
 ## GitHub
 
 [Selfhosted Runner in Docker](https://testdriven.io/blog/github-actions-docker/)
+[Selfhosted Runner Aws ec2 asg](https://www.incredibuild.com/blog/extra-ci-flexibility-with-github-runner-on-aws-spot-instances)
+[Selfhosted Runner Aws ec2 asg](https://faun.pub/setting-up-github-self-hosted-runners-on-ec2-24ad1bd2248c)
 
 ## Kubernetes
 
