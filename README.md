@@ -18,6 +18,10 @@
 
 ## GitHub
 
+[Azure GH Actions Samples Repo](https://github.com/Azure/actions-workflow-samples)
+
+[About .github repo](https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/)
+
 [Selfhosted Runner in Docker](https://testdriven.io/blog/github-actions-docker/)
 
 [Selfhosted Runner Aws ec2 asg](https://www.incredibuild.com/blog/extra-ci-flexibility-with-github-runner-on-aws-spot-instances)
@@ -180,3 +184,8 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 [Strimzi Deployment Docs](https://strimzi.io/docs/operators/latest/full/deploying.html#deploy-intro_str)
 
 [Strimzi Docs Authentication](https://strimzi.io/docs/0.12.0/#con-scram-sha-authentication-deployment-configuration-kafka)
+
+
+## Mongo
+
+[Mongo DB Keyfile access control](https://www.mongodb.com/docs/manual/tutorial/deploy-sharded-cluster-with-keyfile-access-control/)
