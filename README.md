@@ -30,6 +30,8 @@
 
 ## Kubernetes
 
+[EKS Best Practices](https://aws.github.io/aws-eks-best-practices/)
+
 [Tains & Tolerations](https://dnx.solutions/kubernetes-node/)
 
 [Production ready k8s checklist](https://www.weave.works/blog/production-ready-checklist-kubernetes)
