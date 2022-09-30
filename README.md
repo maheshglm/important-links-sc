@@ -18,6 +18,8 @@
 
 ## GitHub
 
+[github-apps Blog](https://josh-ops.com/posts/github-apps/)
+
 [DevOps Blogs](https://josh-ops.com/)
 
 [Azure GH Actions Samples Repo](https://github.com/Azure/actions-workflow-samples)
