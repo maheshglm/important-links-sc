@@ -18,6 +18,8 @@
 
 ## GitHub
 
+[Github Apps Blog](https://josh-ops.com/posts/github-approveops/)
+
 [github-apps Blog](https://josh-ops.com/posts/github-apps/)
 
 [DevOps Blogs](https://josh-ops.com/)
