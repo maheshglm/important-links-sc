@@ -193,6 +193,7 @@ https://dev.to/kkentzo/deploying-a-service-using-ansible-and-systemd-4n11
 
 [Strimzi Docs Authentication](https://strimzi.io/docs/0.12.0/#con-scram-sha-authentication-deployment-configuration-kafka)
 
+[RedHat Strimzi Introduction](https://developers.redhat.com/blog/2019/06/06/accessing-apache-kafka-in-strimzi-part-1-introduction#)
 
 ## Mongo
 
