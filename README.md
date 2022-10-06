@@ -18,6 +18,8 @@
 
 ## GitHub
 
+[GH Actions Security Cheat sheet](https://blog.gitguardian.com/github-actions-security-cheat-sheet/)
+
 [Github Apps Blog](https://josh-ops.com/posts/github-approveops/)
 
 [github-apps Blog](https://josh-ops.com/posts/github-apps/)
