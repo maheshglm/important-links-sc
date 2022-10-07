@@ -38,6 +38,8 @@
 
 ## Kubernetes
 
+[EKS Multiple apps on LB](https://aws.amazon.com/blogs/containers/how-to-expose-multiple-applications-on-amazon-eks-using-a-single-application-load-balancer/)
+
 [EKS Best Practices](https://aws.github.io/aws-eks-best-practices/)
 
 [Tains & Tolerations](https://dnx.solutions/kubernetes-node/)
